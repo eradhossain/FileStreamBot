@@ -1,6 +1,6 @@
 {
-  "name": "GreyMatter-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @GreyMatter_bots",
+  "name": "EradHossain-FileStreamBot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @I_UnknownPerson",
   "keywords": [
       "telegram",
       "stream",
@@ -12,7 +12,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/GreyMatter658/FileStreamBot/tree/main",
+  "repository": "https://github.com/eradhossain/FileStreamBot/tree/main",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
   "website": "avipatilweb.ml",
@@ -82,7 +82,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add Moksh_b658 ]",
+          "description": " Session Name for Bot [ Add I_UnknownPerson ]",
           "required": false
       }
   },
